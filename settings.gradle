@@ -1,0 +1,2 @@
+include ':examples', ':tab-container-library'
+rootProject.name='TabContainer'
